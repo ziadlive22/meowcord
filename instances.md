@@ -8,3 +8,4 @@ public meowcord instances. to add yours, open a pull request that adds a row.
 | Catcord  | [catcord.dev](https://catcord.dev) | [braidenhxyz/meowcord](https://github.com/braidenhxyz/meowcord) |
 | Buncord  | [bun.social](https://bun.social) | [april83c/meowcord-patches](https://github.com/april83c/meowcord-patches) |
 | Dihcord  | [dihcord.team](https://dihcord.team) | [sy62e/dihcord](https://github.com/sy62e/dihcord) |
+| 12cord  | [cord.area12.lol](https://cord.area12.lol) | [ziadlive22/meowcord](https://github.com/ziadlive22/meowcord) |
