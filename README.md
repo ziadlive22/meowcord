@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="100" src="assets/icon.png" />
+  <img width="100" src="https://cord.area12.lol/static/logo.png?v=8ca5696b" />
 </p>
-<h1 align="center">Meowcord</h1>
+<h1 align="center">12Cord, a meowcord instance.</h1>
 
 meowcord is a self-hosted discord clone with feature parity, e2e encryption and federation.
 
